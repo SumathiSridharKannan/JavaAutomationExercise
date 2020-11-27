@@ -1,4 +1,4 @@
-package org.oop;
+package org.oop.objectexamples;
 
 public class Time {
 

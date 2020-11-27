@@ -1,4 +1,4 @@
-package org.oop;
+package org.oop.objectexamples;
 
 public class Circle {
     private final String color = "Red";
